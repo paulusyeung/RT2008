@@ -1,0 +1,12 @@
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\RT2008.Services.dll
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\RT2008.Services.pdb
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\RT2008.DAL.dll
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\RT2008.DAL.pdb
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\obj\Release\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\obj\Release\RT2008.Services.dll
+C:\Inetpub\wwwroot\RT2008\RT2008.Services\obj\Release\RT2008.Services.pdb

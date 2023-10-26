@@ -1,0 +1,14 @@
+C:\Inetpub\wwwroot\RT2008\Westwind.Globalization\bin\Debug\Westwind.Globalization.dll
+C:\Inetpub\wwwroot\RT2008\Westwind.Globalization\bin\Debug\Westwind.Globalization.pdb
+C:\Inetpub\wwwroot\RT2008\Westwind.Globalization\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.Resources.Resources.resources
+C:\Inetpub\wwwroot\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.csproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.dll
+C:\Inetpub\wwwroot\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.pdb
+C:\Projects\RT2008\Westwind.Globalization\bin\Debug\Westwind.Globalization.dll
+C:\Projects\RT2008\Westwind.Globalization\bin\Debug\Westwind.Globalization.pdb
+C:\Projects\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.csprojResolveAssemblyReference.cache
+C:\Projects\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.Resources.Resources.resources
+C:\Projects\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.csproj.GenerateResource.Cache
+C:\Projects\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.dll
+C:\Projects\RT2008\Westwind.Globalization\obj\Debug\Westwind.Globalization.pdb
